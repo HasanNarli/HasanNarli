@@ -28,6 +28,11 @@ I studied Electrical & Electronics Engineering, so I'm most at home where softwa
 | **Architecture** | MVVM · VIPER · MVC |
 | **Tools** | Xcode · Git · Weblate |
 
+### Featured project
+
+**[SnapSweep](https://github.com/HasanNarli/snap_sweep)**: swipe to clean up your photo gallery. Swipe left to delete and right to keep, then review and batch-delete in one go. Everything stays on the device.
+Flutter · Riverpod · go_router · photo_manager · TR/EN · tested · *in active development*
+
 ### Community
 
 I'm a member of **[Swift Buddies TR](https://github.com/SwiftBuddiesTR)**, an open-source community of iOS developers from Türkiye.
